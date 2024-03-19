@@ -1,6 +1,6 @@
 FROM centos:7
 LABEL APP="Student-APP"
-LABEL Developer="kunal chavhan"
+LABE Developer="kunal chavhan"
 
 
 RUN yum install httpd -y
